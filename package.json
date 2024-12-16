@@ -1,0 +1,21 @@
+{
+  "name": "Captcha Kayıt Sistemi",
+  "version": "1.0.0",
+  "description": "Sunucuya girişte kullanıcılara Captcha çözdürür ve rol verir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Whisky Lorean",
+  "license": "MIT",
+  "dependencies": {
+    "better-captcha-image": "^1.0.2",
+    "canvas": "^2.11.2",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^13.2.0",
+    "glob": "^7.1.7",
+    "mongoose": "^6.0.2",
+    "node-fetch": "^3.2.6",
+    "whisky.db": "^0.1.4"
+  }
+}

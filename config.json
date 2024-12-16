@@ -1,0 +1,11 @@
+{
+    "token": "Bot tokeniniz",
+    "prefix": "c!",
+    "kayitKanal": "Kayıt olunacak kanal ID",
+    "logKanal": "Kayıtların logunun atılacağı kanal ID",
+    "otoVerilecekRol": "Sunucuya katılanlara verilecek rol ID",
+    "verilecekRol": "Kayıt olunca verilecek rol ID",
+    "alinacakRol": "Kayıt olunca üstünden alınacak rol ID",
+    "botRol": "Sunucuya katılan botlara otomatik verilecek rol ID",
+    "botDurum": "developed by Whisky Lorean"
+}
